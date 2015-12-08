@@ -1,0 +1,6 @@
+Up arrow = Instant Drop
+Down arrow = Fast Drop
+Left arrow = Move right
+Right arrow = Move left
+N = rotate counterclockwise
+M = rotate clockwise
