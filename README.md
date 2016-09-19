@@ -12,8 +12,8 @@ A tetris game that allows you to select block size.
 ```
 Up arrow = Instant Drop
 Down arrow = Fast Drop
-Left arrow = Move right
-Right arrow = Move left
+Left arrow = Move left
+Right arrow = Move right
 N = rotate counterclockwise
 M = rotate clockwise
 ```
